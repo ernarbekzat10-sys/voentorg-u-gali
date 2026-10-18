@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /voentorg-u-gali/
+Sitemap: https://ernarbekzat10-sys.github.io/voentorg-u-gali/sitemap.xml
